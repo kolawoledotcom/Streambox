@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Sansita+Swashed:wght@300..900&display=swap');
+@import "tailwindcss";
+
+.cabin-sketch-bold {
+    font-family: "Cabin Sketch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 2.5em;
+    color: rgba(255, 255, 255, 0.33);
+  }
+
+.cabin-sketch-bold:hover{
+    color: white;
+    border-bottom: 3px solid rgb(203, 194, 22);
+    
+}
